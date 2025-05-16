@@ -1,0 +1,23 @@
+palavras = [
+    'Abacaxi',
+    'Abóbora',
+    'Peixe',
+    'batata',
+    'Quejo',
+    'Zumbi',
+    'Computador',
+    'Mouse',
+    'Teclado',
+    'Fio',
+    'Monitor',
+    'Bola',
+    'Microfone',
+    'Livro',
+    'Fone',
+    'Telefone',
+    'Flor',
+    'Câmera',
+    'Suporte',
+    'Espada',
+    'Machado'
+]
