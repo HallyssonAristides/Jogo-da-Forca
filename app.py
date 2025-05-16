@@ -16,7 +16,6 @@ def jogar(palavra):
   palavras_utilizadas = []
   tentativas = 6
 
-  # Boas vindas ao jogador
   print("Vamos jogar!")
   print(exibir_forca(tentativas))
   print("Esta é a palavra: %s" % palavra_a_completar)
